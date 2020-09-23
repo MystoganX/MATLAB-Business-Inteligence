@@ -85,6 +85,7 @@ c_bar = colorbar;
 set(gca,'clim',100*[profit.minR profit.maxR]);
 c_bar.Ruler.TickLabelFormat='%g%%';
 c_bar.Title.String = 'Profit Ratio';
+% fig2pdf('CustomerSalesVsProfit')
 %% Average ticket
 % See which is the average value of the items bought by the customers.
 % 
@@ -120,6 +121,7 @@ xlabel('Quantity')
 title('Consumer Sales vs Quantity')
 legend([ID; num2str(1e3*average_fit.p1,'$%.2f per unit')])
 grid on, axis tight
+% fig2pdf('CustomerSalesVsQuantity')
 %% 
 % To complement the information, we do a scatter plot of each customer's average 
 % sales vs average number of items bought. In addition, we scale the size of the 
@@ -143,6 +145,7 @@ xlabel('Average Quantity')
 title('Average Ticket')
 legend([ID; 'Average Ticket'])
 grid on, axis tight, hold off
+% fig2pdf('AverageTicket')
 %% 
 % With that, we see that the average ticket of $58.57 usd is gotten from average 
 % purchases of around 3.8 items per sale. Also, we can see that there's a high 
@@ -174,6 +177,7 @@ ytickformat('$%.0fk')
 legend({'Profit','Cost'},'Location','northeastoutside')
 title('Profit vs cost by year')
 grid on
+% fig2pdf('ProfitVsCost')
 %% 
 % While in the graph the profit doesn't seem to go up as much as the sales in 
 % the last 4 years, we can check that actually the company's has become more efficient 

@@ -95,6 +95,7 @@ hold on;
 plot(sales.OrderDate,sales_smooth.qty,'color',colors(2,:),"LineWidth",2)
 hold off;
 legend('Original','Filtered')
+% fig2pdf('FilteredSales')
 %% Plot a comparison of the sales of each year 
 % After confirming the pattern, with peaks we separate the sales data by year 
 % to have focus on a yearly and see the data side-by-side in a same plot. _We 
@@ -144,6 +145,7 @@ axes(ax2)
 xticks(datetime(bisiesto,1:12,1))
 xtickformat('MMM')
 legend(num2str(sales_year.years),'Location',"northeastoutside")
+% fig2pdf('YearlySales')
 %% Check distribution with boxplots
 
 figure('Name','Boxplots');
