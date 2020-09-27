@@ -22,6 +22,6 @@ Customer Sales vs Quantity |  Average Ticket
 :-------------------------:|:-------------------------:
 <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/CustomerSalesVsQuantity.png" width="650" height="400" />  |  <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/AverageTicket.png" width="650" height="400" />
 
-Or how is the company's *magirn of profit* evolving over the years 
+Or how is the company's *margin of profit* evolving over the years 
 
 <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/ProfitVsCost.png" width="500" height="300"/>
