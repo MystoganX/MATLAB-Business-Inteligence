@@ -12,7 +12,7 @@ And its processing to analyze the presence of yearly patterns:
 
 To answering more complex questions with different visualization techniques, like:
 
-** How profitable are the company's offers, in terms of each customer's behaviour?**
+**How profitable are the company's offers, in terms of each customer's behaviour?**
 
 <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/CustomerSalesVsProfit_small.png" width="800" height="600" />
 
