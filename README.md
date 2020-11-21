@@ -1,4 +1,4 @@
-# Matlab - Data Analysis
+# Matlab - Data Analysis & Visualization
 *The data used in this section comes from Tableau's records of the fictional store [Superstore (Sample - Superstore.xls)](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls), which consists of a spreadsheet with records of sales data from 2014 to 2017. Additionaly, the data from [Twitter's Customer Support (twcs.csv)](https://www.kaggle.com/thoughtvector/customer-support-on-twitter) is also used to create engagement heatmaps*
 
 Now we explore different techniques to read and visualize the information in a typical retail store database, for business purposes.
