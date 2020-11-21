@@ -14,7 +14,7 @@ To answering more complex questions with different visualization techniques, lik
 
 ** How profitable are the company's offers, in terms of each customer's behaviour?**
 
-<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/CustomerSalesVsProfit.png" width="800" height="600" />
+<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/CustomerSalesVsProfit_small.png" width="800" height="600" />
 
 Or cheking **performance metrics**, like the *average ticket* of the items sold by the store:
 
