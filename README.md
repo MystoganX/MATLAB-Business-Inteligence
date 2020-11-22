@@ -11,21 +11,24 @@ Raw data |  Processed yearly data
 
 To checking **performance metrics** and answering more complex questions, like:
 
-**1) How profitable are the company's offers, in terms of each customer's behaviour?**
+1) How profitable are the company's offers, in terms of each customer's behaviour?
 
 <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/CustomerSalesVsProfit_small.png" width="800" height="600" />
 
-**2) Which is the the *average ticket* of the items sold by the store? Does it represent well our customer's behaviour?**
+2) Which is the the *average ticket* of the items sold by the store? Does it represent well our customer's behaviour?
 
 Customer Sales vs Quantity |  Average Ticket 
 :-------------------------:|:-------------------------:
 <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/CustomerSalesVsQuantity_small.png" width="650" height="400" />  |  <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/AverageTicket_small.png" width="650" height="400" />
 
-**3) How is the company's *margin of profit* evolving over the years?** 
+3) How is the company's *margin of profit* evolving over the years?
 
 <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/ProfitVsCost_small.png" width="500" height="300"/>
 
-**4) Which are the busiest hours for our company?**
+4) Which are the busiest hours for our company? In a week, is there an specificly busy time where resources should be allocated?
 
-<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/WeeklyGlobalEngagement.png" width="500" height="300"/>
+<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/WeeklyGlobalEngagement.png" width="800" height="600"/>
 
+5) Is the workload distribuited homogeneously over the month? Or clients preffer specific days to interact with the company?
+
+<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/MonthlyGlobalEngagement.png" width="800" height="600"/>
