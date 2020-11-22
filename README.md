@@ -7,7 +7,7 @@ This goes from simple **reading** and **processing** of the data to plot typical
 
 Raw data |  Processed yearly data
 :-------------------------:|:-------------------------:
-<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/FilteredSales_small.png" width="800" height="600" />  |  <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/YearlySales_small.png" width="800" height="600" />
+<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/FilteredSales_small.png" width="800" height="400" />  |  <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/YearlySales_small.png" width="800" height="400" />
 
 To checking **performance metrics** and answering more complex questions, like:
 
@@ -29,7 +29,7 @@ Customer Sales vs Quantity |  Average Ticket
 
 Original | Clustered
 :-------------------------:|:-------------------------:
-<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/WeeklyGlobalEngagement_small.png" width="800" height="600" />  |  <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/WeeklyGlobalEngagementCluster_small.png" width="800" height="600" />
+<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/WeeklyGlobalEngagement_small.png" width="800" height="400" />  |  <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/WeeklyGlobalEngagementCluster_small.png" width="800" height="400" />
 
 5) Is the workload distribuited homogeneously over the month? Or clients preffer specific days to interact with the company?
 
