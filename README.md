@@ -7,7 +7,7 @@ This goes from **reading** the files, **plotting daily sales** data:
 
 Raw data |  Processed yearly data
 :-------------------------:|:-------------------------:
-<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/DailySales.png" width="800" height="600" />  |  <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/YearlySales.png" width="800" height="600" />
+<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/FiilteredSales_small.png" width="800" height="600" />  |  <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/YearlySales_small.png" width="800" height="600" />
 
 
 To answering more complex questions with different visualization techniques, like:
