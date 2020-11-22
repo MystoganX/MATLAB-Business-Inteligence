@@ -3,25 +3,29 @@
 
 This section explores different techniques to read and visualize data for business purposes. This includes typical analysis of a retail store sales, in order to determine how is business going on and how different type of customer behave, and chat logs to determine global engament and busy hours.
 
-This goes from **reading** the files, **plotting daily sales** data:
+This goes from simple **reading** and **processing** of the data to plot typical sales graphs:
 
 Raw data |  Processed yearly data
 :-------------------------:|:-------------------------:
 <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/FilteredSales_small.png" width="800" height="600" />  |  <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/YearlySales_small.png" width="800" height="600" />
 
+To checking **performance metrics** and answering more complex questions, like:
 
-To answering more complex questions with different visualization techniques, like:
-
-**How profitable are the company's offers, in terms of each customer's behaviour?**
+**1) How profitable are the company's offers, in terms of each customer's behaviour?**
 
 <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/CustomerSalesVsProfit_small.png" width="800" height="600" />
 
-Or cheking **performance metrics**, like the *average ticket* of the items sold by the store:
+**2) Which is the the *average ticket* of the items sold by the store? Does it represent well our customer's behaviour?**
 
 Customer Sales vs Quantity |  Average Ticket 
 :-------------------------:|:-------------------------:
 <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/CustomerSalesVsQuantity_small.png" width="650" height="400" />  |  <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/AverageTicket_small.png" width="650" height="400" />
 
-Or how is the company's *margin of profit* evolving over the years 
+**3) How is the company's *margin of profit* evolving over the years?** 
 
-<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/ProfitVsCost.png" width="500" height="300"/>
+<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/ProfitVsCost_small.png" width="500" height="300"/>
+
+**4) Which are the busiest hours for our company?**
+
+<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/WeeklyGlobalEngagement.png" width="500" height="300"/>
+
