@@ -139,13 +139,13 @@ end
 
 axes(ax1)
 xticks(datetime(bisiesto,1:12,1))
-xtickformat('MMM')
+datetick('x','mmm','keepticks')
 legend(num2str(sales_year.years),'Location',"northeastoutside")
 axes(ax2)
 xticks(datetime(bisiesto,1:12,1))
-xtickformat('MMM')
+datetick('x','mmm','keepticks')
 legend(num2str(sales_year.years),'Location',"northeastoutside")
-% fig2pdf('YearlySales')
+fig2pdf('YearlySales')
 %% Check distribution with boxplots
 
 figure('Name','Boxplots');
