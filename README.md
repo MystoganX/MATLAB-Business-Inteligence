@@ -27,7 +27,9 @@ Customer Sales vs Quantity |  Average Ticket
 
 4) Which are the busiest hours for our company? In a week, is there an specificly busy time where resources should be allocated?
 
-<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/WeeklyGlobalEngagement.png" width="800" height="600"/>
+Original | Clustered
+:-------------------------:|:-------------------------:
+<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/WeeklyGlobalEngagement_small.png" width="800" height="600" />  |  <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/WeeklyGlobalEngagementCluster_small.png" width="800" height="600" />
 
 5) Is the workload distribuited homogeneously over the month? Or clients preffer specific days to interact with the company?
 
