@@ -1,15 +1,7 @@
 # Matlab - Business Inteligence
-*The examples shown in this section use the data from Tableau's fictional store [Superstore (Sample - Superstore.xls)](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) and [Twitter's Customer Support (twcs.csv)](https://www.kaggle.com/thoughtvector/customer-support-on-twitter). The Superstore file is a spreadsheet with records of sales data from 2014 to 2017, while twcs.csv contains logs of the messages from the customer support chat.*
+*The examples shown in this section use the data from Tableau's fictional store [Superstore (Superstore.xls)](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) and [Twitter's Customer Support (twcs.csv)](https://www.kaggle.com/thoughtvector/customer-support-on-twitter). The Superstore file is a spreadsheet with records of sales data from 2014 to 2017, while twcs.csv contains logs of the messages from the customer support chat.*
 
-This section explores different techniques to read and visualize data for business purposes. This includes typical analysis of sales data from a retail store, in order to determine *how is business going on?* and *how different type of customer behave?*. Also, analysis of chat logs to determine global engament and rush hours.
-
-These go from simple **reading** and **processing** of the data to plot typical sales graphs...
-
-Raw data |  Processed yearly data
-:-------------------------:|:-------------------------:
-<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/FilteredSales_small.png" width="800" height="400" />  |  <img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/YearlySales_small.png" width="800" height="400" />
-
-...to checking **performance metrics** and answering more complex questions, like:
+This section explores different techniques to read and visualize data for business purposes. This includes checking of **performance metrics** by doing typical analysis of sales data from a retail store, to determine *how is business going on?* and *how different type of customer behave?*. And also, analysis of chat logs to determine global engament and rush hours.
 
 Scatter Plots
 ---
