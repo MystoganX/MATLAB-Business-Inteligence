@@ -27,7 +27,7 @@ Bar Plots
 
 3) How is the company's *margin of profit* evolving over the years?
 
-<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/ProfitVsCost_small.png" width="500" height="300"/>
+<img src="https://github.com/MystoganX/MATLAB-Data-Analysis/blob/master/Figures/ProfitVsCost_small.png" width="450" height="350"/>
 
 Heatmap Charts
 ----
